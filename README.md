@@ -1,4 +1,4 @@
-# INM701: Introduction to Artificial Intelligence
+# Predicting Kickstarter Campaign Success
 
 ### Team Members: 
 
